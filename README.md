@@ -3,7 +3,7 @@ Part of the GitHub tutorial.
 
 Hello,
 My name is Olga Kochepasova.
-I'm 22 years old and I graduated from college with an Associates' Degree in Computer Science.
+I'm 23 years old and I graduated from college with an Associates' Degree in Computer Science.
 I can program in Java, Python, PHP, and C#.
 I have some knowledge of HTML 5 and CSS.
 
